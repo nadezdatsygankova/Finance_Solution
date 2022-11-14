@@ -803,6 +803,7 @@ body {
   padding: 0 22px;
   transition: all 0.3s ease 0.3s;
   cursor: pointer;
+  
 }
 
 .subscribe__button:hover{
